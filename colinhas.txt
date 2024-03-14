@@ -1,0 +1,3 @@
+Rodar o servidor Django
+
+python manage.py runserver
